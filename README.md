@@ -13,10 +13,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SantiDev/SantiDev/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <h1 align="left">I code with</h1>
